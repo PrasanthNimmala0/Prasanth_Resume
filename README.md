@@ -1,8 +1,10 @@
-## Hypefolio 🔥
+## Portfolio 🔥
 
-Hypefolio is a feature-rich portfolio website designed to showcase your projects and skills in a captivating way. Built with a tech stack of HTML, CSS, and JavaScript, this responsive portfolio ensures a seamless experience across devices.
+Portfolio is a feature-rich portfolio website designed to showcase your projects and skills in a captivating way. Built with a tech stack of HTML, CSS, and JavaScript, this responsive portfolio ensures a seamless experience across devices.
 
 ## Demo
+
+https://prasanthnimmala0.github.io/Prasanth_Resume/
 
 ## Features
 
@@ -15,7 +17,7 @@ Hypefolio is a feature-rich portfolio website designed to showcase your projects
 
 ## 🚀 About Me
 
-Hello, I'm Haris Ahmad, the visionary mind behind Hypefolio – a groundbreaking open-source portfolio website. Dive into the world of coding excellence with Hypefolio's freely available source code, empowering anyone to craft their digital showcase effortlessly. 🌐✨
+Hello, I'm Prasanth Tirupati Reddy Nimmala, the visionary mind behind Portfolio – a groundbreaking open-source portfolio website. Dive into the world of coding excellence with Portfolio's freely available source code, empowering anyone to craft their digital showcase effortlessly. 🌐✨
 
 Connect with me on LinkedIn to stay in the loop with my professional journey and discover insights into the evolving tech landscape.
 
@@ -39,10 +41,10 @@ My GitHub: https://github.com/PrasanthNimmala0
 
 ```
 # Clone this repository
-$ git clone https://github.com/harisahmad59/Hypefolio
+$ git clone https://github.com/PrasanthNimmala0/Prasanth_Resume
 
 # Go into the repository
-$ cd Hypefolio
+$ cd Portfolio
 
 # Remove current origin repository
 $ git remote remove origin
